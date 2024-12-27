@@ -1,3 +1,45 @@
+<style>
+    /* 卡片容器 */
+    .card-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+    /* 卡片样式 */
+    .card {
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        background-size: contain;
+        background-position: center;
+        border-radius: 15px;
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        position: relative;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    }
+    /* 卡片悬停效果 */
+    .card::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.6));
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 15px 25px rgba(0, 0, 0, 0.4);
+    }
+    .card:hover::after {
+        opacity: 1;
+    }
+</style>
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22龙少%2C%20你好!%22);lotawei祝您今天愉快!&center=true&size=27">
         </a> </h1>
@@ -16,7 +58,6 @@
                 alt="lotawei's Stats"></img>
              <img src=" https://github-readme-stats.vercel.app/api/top-langs?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
                 alt="lotawei's Stats"></img>
-         
         </a>
     </p>
     <br></br>
