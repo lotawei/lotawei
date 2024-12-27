@@ -14,8 +14,6 @@
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
             <img src="https://github-readme-stats.vercel.app/api?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
                 alt="lotawei's Stats"></img>
-             <img src=" https://github-readme-stats.vercel.app/api/top-langs?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
-                alt="lotawei's Stats"></img>
         </a>
     </p>
     <br></br>
@@ -45,4 +43,4 @@
             <img src="https://badges.strrl.dev/commits/monthly/lotawei?style=flat-square&color=black&logo=github">
         </a>
     </p>
-    <img src="https://i.ibb.co/SQHNMXh/941724378190-pic.jpg"/>
+    <img  style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"   src="https://i.ibb.co/SQHNMXh/941724378190-pic.jpg"/>
