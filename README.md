@@ -7,9 +7,21 @@
             alt="gtihub-visitors" />
     </a>
     </details>
-    <br>✨ 诸位大仙，我是lotawei,主要从事移动端开发致力于成为一名全栈开发者，平常喜欢捣鼓，喜欢编程。</br>
-    <br>该站存放本人的一些代码程序，顺便记录自己的随想心得。</br>
-    <br> 🤣欢迎大家来和我讨论技术上问题以及商业的一些合作</br>
+    # ✨ 欢迎访问我的 GitHub！
+
+    大家好，我是 **lotawei**，一名专注于移动端开发的工程师，致力于成为全栈开发者。平时喜欢捣鼓各种技术，尤其是编程。
+
+    ## 🖥️ 我的技术栈
+- 移动端开发
+- 前端开发
+- 后端开发
+- 全栈技术探索
+
+## 📝 关于我
+这个站点存放了我自己的一些代码程序，并且记录下了自己的随想和心得。希望能在这里与大家分享技术经验和学习过程。
+
+## 🤝 欢迎交流
+欢迎大家随时向我讨论技术问题，或者有商业合作的想法也可以联系我。一起交流，共同进步！
     <p align="center">
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
             <img src="https://github-readme-stats.vercel.app/api?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
