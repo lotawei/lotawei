@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +49,7 @@
           opacity: 1;
         }
       </style>
-</head>
+</head> -->
 
 <body>
     <h1 align="center"> <a href="https://sunguoqi.com/"> <img
