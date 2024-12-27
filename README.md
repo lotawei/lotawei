@@ -62,8 +62,8 @@
 ---
 
 ### 联系方式  
-**欢迎骚扰👏🏻👏🏻 有需求的可以联系我**  
-**WeChat**: 19938857381  
+**欢迎骚扰👏🏻👏🏻 有脚本需求移动端需求的可以联系我**  
+**微信**: 19938857381  
    <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"  src="https://i.ibb.co/Prx2vwm/pic.jpg"/>
     </p>
     
