@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,9 +49,7 @@
           opacity: 1;
         }
       </style>
-</head> -->
-
-<body>
+</head>
     <h1 align="center"> <a href="https://sunguoqi.com/"> <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22龙少%2C%20你好!%22);lotawei祝您今天愉快!&center=true&size=27">
         </a> </h1>
@@ -124,5 +122,4 @@
         <div class="card" style="background-image: url('https://i.ibb.co/t3RF9GJ/1241724378238-pic.jpg');"></div>
         <div class="card" style="background-image: url('https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg');"></div>
 
-      </div>
-</body>
+    </div>
