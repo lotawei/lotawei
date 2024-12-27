@@ -16,8 +16,7 @@
                 alt="lotawei's Stats"></img>
         </a>
     </p>
-    &amsp
-
+    <br></br>
     <p align="center">
         <a href="https://i.ibb.co/Prx2vwm/pic.jpg" target="_blank" alt="WeChat" title="WeChat">
             <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px" />
