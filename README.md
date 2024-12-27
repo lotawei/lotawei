@@ -1,5 +1,5 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);残风同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/HIM198/computer-vision-in-action">
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22龙少%2C%20你好!%22);lotawei祝您今天愉快!&center=true&size=27"> </a> </h1>
+<a href="https://github.com/lotawei">
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
@@ -20,7 +20,7 @@
 ---
 </details>
   
-  ✨ 站主目前为江西财经大学大三生，东幻梦想工作室成员，小破站万粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 主要从事移动端开发致力于成为一名全栈开发者，平常喜欢捣鼓写，喜欢编程。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
  
  
 <!--my introduction end -->
