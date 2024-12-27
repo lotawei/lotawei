@@ -64,9 +64,6 @@
     <br>✨ 诸位大仙，我是lotawei,主要从事移动端开发致力于成为一名全栈开发者，平常喜欢捣鼓，喜欢编程。</br>
     <br>该站存放本人的一些代码程序，顺便记录自己的随想心得。</br>
     <br> 🤣欢迎大家来和我讨论技术上问题以及商业的一些合作</br>
-
-    <br>
-
     <p align="center">
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
             <img src="https://github-readme-stats.vercel.app/api?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
