@@ -76,7 +76,7 @@
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jbhwXz7/1201724378230-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/1nJgFr0/1231724378236-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
-   <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
+   
    
 - **技术实力**  
   熟练使用 Swift、Objective-C、Java等多种技术语言；擅长架构选型设计（MVVM、MVC），掌握常用的基础算法数据结构与常用设计模式，擅长代码优化业务整合重构。
