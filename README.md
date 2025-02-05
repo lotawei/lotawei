@@ -1,5 +1,5 @@
  <h1 align="center"> <a href="https://sunguoqi.com/"> <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22龙少%2C%20你好!%22);lotawei祝您今天愉快!&center=true&size=27">
+                src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22你好%2C%20今天也要从其它老师们处学习哟!%22);lotawei祝您今天愉快!&center=true&size=27">
         </a> </h1>
     <a href="https://github.com/lotawei">
         <img align="right"
