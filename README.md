@@ -53,6 +53,7 @@
 
 - **丰富项目经验**  
   主导国际沙箱支付业务开发，优化商户接入流程节省 70% 时间；参与短视频、直播、蓝牙交互、地图导航等多个高复杂度项目。
+   <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"  src="https://i.ibb.co/SQHNMXh/941724378190-pic.jpg"/>
 
 - **技术实力**  
   熟练使用 Swift、Objective-C、Java 等多种技术栈；擅长架构设计（MVVM、状态机模式）、数据埋点、自动化测试及脚本开发。
@@ -66,3 +67,4 @@
 **👏🏻👏🏻 有脚本需求移动端需求的可以联系我**  
 **微信**: 19938857381  
    <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"  src="https://i.ibb.co/JBR9gWR/2024-12-27-17-44-13.png"/>
+   
