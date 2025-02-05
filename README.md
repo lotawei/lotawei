@@ -79,7 +79,7 @@
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
    
 - **技术实力**  
-  熟练使用 Swift、Objective-C、Java 等多种技术栈；擅长架构设计（MVVM、状态机模式）、数据埋点、自动化测试及脚本开发。
+  熟练使用 Swift、Objective-C、Java等多种技术语言；擅长架构设计（MVVM、状态机模式），代码优化业务整合重构。
 
 - **高质量成果导向**  
   通过模块化、自动化工具缩短开发周期达 90%；优化内存及稳定性，显著提升用户体验。
