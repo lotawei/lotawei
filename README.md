@@ -53,7 +53,51 @@
 
 - **丰富项目经验**  
   主导国际沙箱支付业务开发，优化商户接入流程节省 70% 时间；参与短视频、直播、蓝牙交互、地图导航等多个高复杂度项目。
-   <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"  src="https://i.ibb.co/SQHNMXh/941724378190-pic.jpg"/>
+   <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/SQHNMXh/941724378190-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/m9qx6gY/961724378193-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/Bt2tzzy/1021724378202-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/cQHLbJm/1101724378215-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/g3zDfBZ/1161724378223-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/cb3GcfV/1191724378228-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jHm3pzD/1261724378241-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/BNByLF2/1321724378251-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/r3kvsSh/1371724378259-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/xHwnQwY/1381724378260-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/VDsX3VJ/1401724378262-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/TrPcpnV/931724378189-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/SyVXt81/1011724378201-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/TrPcpnV/931724378189-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/nBR5z2V/1041724378205-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/nBR5z2V/1041724378205-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jRc5Ldt/1061724378208-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/GsVJXN2/1111724378216-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/7nb6yW7/1151724378222-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jbhwXz7/1201724378230-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/1nJgFr0/1231724378236-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/t3RF9GJ/1241724378238-pic.jpg"/>
+
+<img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
 
 - **技术实力**  
   熟练使用 Swift、Objective-C、Java 等多种技术栈；擅长架构设计（MVVM、状态机模式）、数据埋点、自动化测试及脚本开发。
