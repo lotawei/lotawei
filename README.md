@@ -28,7 +28,6 @@ Hello everyone, I am lotawei, dedicated to becoming a full-stack developer. I us
 **English (英语)**
 
 Welcome everyone to discuss technical issues with me at any time, or contact me if you have ideas for business cooperation. Let's communicate and make progress together!
-
     <p align="center">
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
             <img src="https://github-readme-stats.vercel.app/api?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
