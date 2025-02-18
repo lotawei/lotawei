@@ -9,26 +9,16 @@
     </details>
 
 <br><br/>
-## 🖥️ 关于我 / 🖥️ About Me
-
-**中文 (Chinese)**
-
+## 🖥️ 关于我
 大家好，我是 lotawei，致力于成为全栈开发者。平时喜欢捣鼓各种好玩的，喜欢编一些优雅的（屎山，不不不我最讨厌屎山了）代码
 
-**English (英语)**
 
-Hello everyone, I am lotawei, dedicated to becoming a full-stack developer. I usually enjoy tinkering with interesting things and writing elegant code (not messy code, messy code is my least favorite).
+## 🤝 欢迎交流
 
-## 🤝 欢迎交流 / 🤝 Welcome to Connect
-
-**中文 (Chinese)**
 
 欢迎大家随时向我讨论技术问题，或者有商业合作的想法也可以联系我。一起交流，共同进步！
 
-**English (英语)**
-
-Welcome everyone to discuss technical issues with me at any time, or contact me if you have ideas for business cooperation. Let's communicate and make progress together!
-    <p align="center">
+  <p align="center">
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
             <img src="https://github-readme-stats.vercel.app/api?username=lotawei&title_color=333&text_color=777&show_icons=false&theme=transparent"
                 alt="lotawei's Stats"></img>
@@ -62,9 +52,7 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
         </a>
     </p>
     <br></br>
-### 🐶 个人经历 / 🐶 Personal Experience
-
-**中文 (Chinese)**
+### 🐶 个人经历 
 
 - **多年移动端开发经验**
   熟练掌握 iOS/Flutter/Android原生开发,了解React Native 混合开发模式，擅长复杂业务集成与优化，业务重构.
@@ -160,119 +148,21 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
         *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
     *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
 
-**Project Experience**
-
-**2016**
-
-*   **C# Network Radar Scanner (WPF)**
-    *   **Project Name:** detectchecker
-    *   **Tech Stack:** C#, WPF
-    *   **Project Description:** A network radar scanning application for detecting network conditions.
-    *   **Responsibilities:** Implemented Wireshark packet capture functionality for mobile business halls.
-*   **iOS Network Common Componentization**
-    *   **Tech Stack:** iOS, AES+CBC256 encryption
-    *   **Project Description:** Private company's iOS network common component using AES+CBC256 for data encryption and transmission.
-
-**2017-2018**
-
-*   **Xiaomei Banlv (Travel Companion)**
-    *   **Tech Stack:** Voice map navigation, Alipay/WeChat Pay
-    *   **Project Description:** Voice map navigation application including route drawing, scenic area route recording, and offline audio download management.
-*   **Easy Ride Sports**
-    *   **Tech Stack:** Bluetooth, heart rate data management
-    *   **Project Description:** Bluetooth bicycle data sports management application including heart rate data, health management, and line chart display.
-*   **Driver Check-In System**
-    *   **Tech Stack:** Swift, Navigation, Map Database
-    *   **Project Description:** Driver offline check-in system including navigation and map database functionality.
-
-**2018-2019**
-
-*   **RadiumClient SDK (iOS & Android)**
-    *   **Tech Stack:** iOS, Android, Template Design Pattern, State Machine, CI, Jenkins
-    *   **Project Description:** SDK platform development including event tracking, customer service, internal login/registration/unbinding, third-party authorization (Google, Facebook, VK, Apple Pay, Google Pay), in-app purchase integration, and Taiwan in-app purchase integration. Implemented using a template design pattern and state machine with CI/Jenkins for automated builds.
-*   **Unity Dragon Ball Fierce Fighting**
-    *   **Tech Stack:** Unity, C#, Protobuf, Lua
-    *   **Project Description:** Included in-app purchases and server-side login/item/backpack system implementation, Protobuf IM message chatroom, and Lua hot updates.
-
-**2019-2021**
-
-*   **Walker (Hiking App)**
-    *   **Technical Stack:** Bluetooth development management, AR, DFU
-    *   **Project description:** Bluetooth development management application, including motion recording data rendering, AR route display, estimated power icon display, AR radar scanning alarm, firmware upgrade DFU, performance optimization.
-*   **Xoss**
-    *   **Tech Stack:** Swift
-    *   **Project Description:** An overseas version of the "Walker" application.
-*   **LiveKit (Live Streaming Room)**
-    *   **Tech Stack:** RxSwift, MVVM, MQTT, Ijkplayer, Lottie
-    *   **Project Description:** Live streaming room application including Lottie gift effects, concurrent message queue design implementation, sub-module componentization, performance optimization, and CMS media asset project.
-*   **Rightly (Social APP)**
-    *   **Tech Stack:** NetEase Huanxin Cloud, RxSwift, MVVM, Recommendation Algorithm
-    *   **Project Description:** Social application based on NetEase Huanxin Cloud, similar to Tantan, including voice, video, and picture social features, and a task completion system.
-*   **PowerScanner**
-    *   **Tech Stack:** OCR Text Recognition
-    *   **Project Description:** OCR text recognition tool.
-
-**2021-2025**
-
-*   **Android & Web (NFC)**
-    *   **Tech Stack:** Softspace NFC, Android Native, Web (React), EventBus
-    *   **Project Description:** Hybrid development application based on Softspace NFC using Android native and a web container. The web side uses the React technology stack and communicates using EventBus for native-webpage communication.
-*   **iOS (Cashier System)**
-    *   **Tech Stack:** iOS, Web Native Containerization, Framework
-    *   **Project Description:** Cashier system's web native containerization framework, horizontal and vertical screen adaptation, and custom container.
-*   **Flutter (Payment Cashier Business)**
-    *   **Tech Stack:** Flutter, MVVM+GetX, Pluginization
-    *   **Project Description:**
-        *   MVVM+GetX architecture with some services (APIs) available as independent plugins.
-        *   IAPWallet + AMSMerchant sandbox wallets and simulated merchants.
-        *   Payment cashier business, recurring billing subscription payment services such as refunds, queries, installment payments.
-        *   Integrated payment methods including 2C2P, Apple Pay, Google Pay.
-        *   Custom link message tracing.
-        *   Wallet integrations: AlipayHK, AlipayCN, GCash, Kakao Pay, and other Southeast Asian wallets/banks.
-    *   **Served Merchants:** Mihoyo, 2C2P, ChabaiDao, Bilibili
 
 
-
-**English (英语)**
-
-- **Years of Mobile Development Experience**
-  Proficient in iOS/Flutter/Android native development, understands React Native hybrid development mode, skilled in complex business integration and optimization, and business restructuring.
-
-- **Rich Project Experience**
-  Led the development of international merchant acquiring sandbox simulation business, optimizing merchant access process and saving 70% of time; Participated in projects such as short video, live streaming, Bluetooth interaction, map navigation, and OCR recognition tools.
-
-
-### 🛠️ 技术实力 / 🛠️ Technical Skills
-
-**中文 (Chinese)**
+### 🛠️ 技术实力 
 
 熟练使用 Swift、Objective-C、Java等多种技术语言；擅长架构选型设计（MVVM、MVC），掌握常用的基础算法数据结构与常用设计模式，擅长代码优化业务整合重构。
 
-**English (英语)**
 
-Proficient in multiple technical languages such as Swift, Objective-C, Java; Skilled in architecture selection and design (MVVM, MVC), masters common basic algorithms, data structures and commonly used design patterns, excels in code optimization, business integration and restructuring.
+### ✅ High-Quality Results-Oriented
 
-### ✅ 高质量成果导向 / ✅ High-Quality Results-Oriented
-
-**中文 (Chinese)**
 
 通过模块化、自动化工具缩短开发周期达 90%；优化内存及稳定性，显著提升用户体验。
 
-**English (英语)**
 
-Shortened the development cycle by up to 90% through modularization and automation tools; Optimized memory and stability, significantly improving user experience.
-
----
-
-### ☎️ 联系方式 / ☎️ Contact Information
-
-**中文 (Chinese)**
+### ☎️ 联系方式
 
 **👏🏻👏🏻 有脚本需求移动端需求的可以联系我**
 **微信**: 19938857381
-
-**English (英语)**
-
-**👏🏻👏🏻 Contact me if you have scripting or mobile development needs**
-**WeChat**: 19938857381
    <img style="width: 200px; height: auto; border: 1px solid #ccc; border-radius: 10px;"  src="https://i.ibb.co/JBR9gWR/2024-12-27-17-44-13.png"/>
