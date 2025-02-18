@@ -108,8 +108,6 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
     *   **项目描述：** 私有公司 iOS 网络公共组件，采用 AES+CBC256 进行数据加密传输。
 
 **2017-2018**
-
-*   **小美伴旅**
     *   **技术栈：** 语音地图导航，支付宝/微信支付
     *   **项目描述：** 语音地图导航应用，包含路线绘制、景区路线记录、离线音频下载管理等功能。
 *   **易骑运动**
@@ -119,21 +117,18 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
     *   **技术栈：** Swift, 导航，地图数据库
     *   **项目描述：** 司机离线打卡系统，包含导航和地图数据库功能。
 
-**2018-2019**
-
-*   **iOS Android RadiumClient (SDK 平台研发)**
+*   ** (SDK 平台研发)**
     *   **技术栈：** iOS, Android, 模版设计模式, 状态机, CI, Jenkins
     *   **项目描述：** SDK 平台研发，包含埋点、客服、内部登录注册解绑、三方授权（Google, Facebook, VK, Apple Pay, Google Pay）、内付集成插件整合、台湾内付集成。采用模版设计模式加状态机，CI/Jenkins 自动化构建。
-*   **Unity 龙珠激斗**
+*   **Unity 龙珠激斗
     *   **技术栈：** Unity, C#, Protobuf, Lua
     *   **项目描述：** 包含内付以及服务端登录物品背包系统实现，Protobuf IM 消息聊天室，Lua 热更新。
 
 **2019-2021**
-
-*   **行者**
+    *    行者相关
     *   **技术栈：** 蓝牙开发管理，AR, DFU
-    *   **项目描述：** 蓝牙开发管理应用，包含运动记录数据渲染、AR 路线展示、估算功率图标展示、AR 雷达扫描警报、固件升级 DFU、性能优化。
-*   **Xoss (海外行者)**
+    *   **项目描述：** 蓝牙开发管理应用，bug修复, 包含运动记录数据渲染、AR 路线展示、估算功率图标展示、AR 雷达扫描警报、固件升级 DFU、性能优化。
+*   **Xoss**
     *   **技术栈：** Swift
     *   **项目描述：** 海外版本的 "行者" 应用。
 *   **LiveKit (直播间)**
@@ -164,6 +159,79 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
         *   自定义链路报文跟踪。
         *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
     *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
+
+**Project Experience**
+
+**2016**
+
+*   **C# Network Radar Scanner (WPF)**
+    *   **Project Name:** detectchecker
+    *   **Tech Stack:** C#, WPF
+    *   **Project Description:** A network radar scanning application for detecting network conditions.
+    *   **Responsibilities:** Implemented Wireshark packet capture functionality for mobile business halls.
+*   **iOS Network Common Componentization**
+    *   **Tech Stack:** iOS, AES+CBC256 encryption
+    *   **Project Description:** Private company's iOS network common component using AES+CBC256 for data encryption and transmission.
+
+**2017-2018**
+
+*   **Xiaomei Banlv (Travel Companion)**
+    *   **Tech Stack:** Voice map navigation, Alipay/WeChat Pay
+    *   **Project Description:** Voice map navigation application including route drawing, scenic area route recording, and offline audio download management.
+*   **Easy Ride Sports**
+    *   **Tech Stack:** Bluetooth, heart rate data management
+    *   **Project Description:** Bluetooth bicycle data sports management application including heart rate data, health management, and line chart display.
+*   **Driver Check-In System**
+    *   **Tech Stack:** Swift, Navigation, Map Database
+    *   **Project Description:** Driver offline check-in system including navigation and map database functionality.
+
+**2018-2019**
+
+*   **RadiumClient SDK (iOS & Android)**
+    *   **Tech Stack:** iOS, Android, Template Design Pattern, State Machine, CI, Jenkins
+    *   **Project Description:** SDK platform development including event tracking, customer service, internal login/registration/unbinding, third-party authorization (Google, Facebook, VK, Apple Pay, Google Pay), in-app purchase integration, and Taiwan in-app purchase integration. Implemented using a template design pattern and state machine with CI/Jenkins for automated builds.
+*   **Unity Dragon Ball Fierce Fighting**
+    *   **Tech Stack:** Unity, C#, Protobuf, Lua
+    *   **Project Description:** Included in-app purchases and server-side login/item/backpack system implementation, Protobuf IM message chatroom, and Lua hot updates.
+
+**2019-2021**
+
+*   **Walker (Hiking App)**
+    *   **Technical Stack:** Bluetooth development management, AR, DFU
+    *   **Project description:** Bluetooth development management application, including motion recording data rendering, AR route display, estimated power icon display, AR radar scanning alarm, firmware upgrade DFU, performance optimization.
+*   **Xoss**
+    *   **Tech Stack:** Swift
+    *   **Project Description:** An overseas version of the "Walker" application.
+*   **LiveKit (Live Streaming Room)**
+    *   **Tech Stack:** RxSwift, MVVM, MQTT, Ijkplayer, Lottie
+    *   **Project Description:** Live streaming room application including Lottie gift effects, concurrent message queue design implementation, sub-module componentization, performance optimization, and CMS media asset project.
+*   **Rightly (Social APP)**
+    *   **Tech Stack:** NetEase Huanxin Cloud, RxSwift, MVVM, Recommendation Algorithm
+    *   **Project Description:** Social application based on NetEase Huanxin Cloud, similar to Tantan, including voice, video, and picture social features, and a task completion system.
+*   **PowerScanner**
+    *   **Tech Stack:** OCR Text Recognition
+    *   **Project Description:** OCR text recognition tool.
+
+**2021-2025**
+
+*   **Android & Web (NFC)**
+    *   **Tech Stack:** Softspace NFC, Android Native, Web (React), EventBus
+    *   **Project Description:** Hybrid development application based on Softspace NFC using Android native and a web container. The web side uses the React technology stack and communicates using EventBus for native-webpage communication.
+*   **iOS (Cashier System)**
+    *   **Tech Stack:** iOS, Web Native Containerization, Framework
+    *   **Project Description:** Cashier system's web native containerization framework, horizontal and vertical screen adaptation, and custom container.
+*   **Flutter (Payment Cashier Business)**
+    *   **Tech Stack:** Flutter, MVVM+GetX, Pluginization
+    *   **Project Description:**
+        *   MVVM+GetX architecture with some services (APIs) available as independent plugins.
+        *   IAPWallet + AMSMerchant sandbox wallets and simulated merchants.
+        *   Payment cashier business, recurring billing subscription payment services such as refunds, queries, installment payments.
+        *   Integrated payment methods including 2C2P, Apple Pay, Google Pay.
+        *   Custom link message tracing.
+        *   Wallet integrations: AlipayHK, AlipayCN, GCash, Kakao Pay, and other Southeast Asian wallets/banks.
+    *   **Served Merchants:** Mihoyo, 2C2P, ChabaiDao, Bilibili
+
+
 
 **English (英语)**
 
