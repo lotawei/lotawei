@@ -94,6 +94,76 @@ Welcome everyone to discuss technical issues with me at any time, or contact me 
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jbhwXz7/1201724378230-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/1nJgFr0/1231724378236-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
+   **项目经历**
+
+**2016**
+
+*   **C# 网络雷达扫描 (WPF)**
+    *   **项目名称：** detectchecker
+    *   **技术栈：** C#, WPF
+    *   **项目描述：** 网络雷达探测扫描应用，用于检测网络情况。
+    *   **项目职责：** 为移动营业厅实现 Wireshark 抓包功能。
+*   **iOS 网络公共组件化**
+    *   **技术栈：** iOS, AES+CBC256 加密
+    *   **项目描述：** 私有公司 iOS 网络公共组件，采用 AES+CBC256 进行数据加密传输。
+
+**2017-2018**
+
+*   **小美伴旅**
+    *   **技术栈：** 语音地图导航，支付宝/微信支付
+    *   **项目描述：** 语音地图导航应用，包含路线绘制、景区路线记录、离线音频下载管理等功能。
+*   **易骑运动**
+    *   **技术栈：** 蓝牙，心率数据管理
+    *   **项目描述：** 蓝牙自行车数据运动管理应用，包含心率数据、健康管理、折线图展示等功能。
+*   **司机打卡系统**
+    *   **技术栈：** Swift, 导航，地图数据库
+    *   **项目描述：** 司机离线打卡系统，包含导航和地图数据库功能。
+
+**2018-2019**
+
+*   **iOS Android RadiumClient (SDK 平台研发)**
+    *   **技术栈：** iOS, Android, 模版设计模式, 状态机, CI, Jenkins
+    *   **项目描述：** SDK 平台研发，包含埋点、客服、内部登录注册解绑、三方授权（Google, Facebook, VK, Apple Pay, Google Pay）、内付集成插件整合、台湾内付集成。采用模版设计模式加状态机，CI/Jenkins 自动化构建。
+*   **Unity 龙珠激斗**
+    *   **技术栈：** Unity, C#, Protobuf, Lua
+    *   **项目描述：** 包含内付以及服务端登录物品背包系统实现，Protobuf IM 消息聊天室，Lua 热更新。
+
+**2019-2021**
+
+*   **行者**
+    *   **技术栈：** 蓝牙开发管理，AR, DFU
+    *   **项目描述：** 蓝牙开发管理应用，包含运动记录数据渲染、AR 路线展示、估算功率图标展示、AR 雷达扫描警报、固件升级 DFU、性能优化。
+*   **Xoss (海外行者)**
+    *   **技术栈：** Swift
+    *   **项目描述：** 海外版本的 "行者" 应用。
+*   **LiveKit (直播间)**
+    *   **技术栈：** RxSwift, MVVM, MQTT, Ijkplayer, Lottie
+    *   **项目描述：** 直播间应用，包含 Lottie 礼物特效、并发消息队列设计实现、子模块组件化、性能优化、CMS 媒资项目。
+*   **Rightly (社交 APP)**
+    *   **技术栈：** 网易环信云, RxSwift, MVVM, 推荐算法
+    *   **项目描述：** 基于网易环信云的社交 APP，类似探探，包含语音视频图片社交功能，完成任务系统。
+*   **Powerscanner**
+    *   **技术栈：** OCR 文字识别
+    *   **项目描述：** OCR 文字识别工具。
+
+**2021-2025**
+
+*   **Android & Web (NFC)**
+    *   **技术栈：** Softspace NFC, Android 原生, Web (React), EventBus
+    *   **项目描述：** 基于 Softspace NFC 的 Android 原生加 Web 容器混合开发应用，Web 端使用 React 技术栈，通信方式采用 EventBus 原生网页通信。
+*   **iOS (收银台)**
+    *   **技术栈：** iOS, Web 原生容器化, Framework
+    *   **项目描述：** 收银台的 Web 原生容器化 Framework，横竖屏幕适配，自定义容器。
+*   **Flutter (支付收银台业务)**
+    *   **技术栈：** Flutter, MVVM+GetX, 插件化
+    *   **项目描述：**
+        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
+        *   IAPWallet + AMSMerchant 沙箱钱包、仿真商户。
+        *   支付收银台业务，代扣订阅支付业务，如退款、查询、分期支付。
+        *   集成 2C2P, Apple Pay, Google Pay 等支付方式。
+        *   自定义链路报文跟踪。
+        *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
+    *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
 
 **English (英语)**
 
