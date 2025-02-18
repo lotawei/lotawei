@@ -82,7 +82,7 @@
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/jbhwXz7/1201724378230-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/1nJgFr0/1231724378236-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
-   **项目经历**
+**项目经历**
 
 **2016**
 
