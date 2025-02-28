@@ -85,7 +85,6 @@
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/6mHQ2gN/1251724378239-pic.jpg"/>
 **项目经历**
 
-**2016**
 
 *   **C# 网络雷达扫描 (WPF)**
     *   **项目名称：** detectchecker
@@ -96,7 +95,6 @@
     *   **技术栈：** iOS, AES+CBC256 加密
     *   **项目描述：** 私有公司 iOS 网络公共组件，采用 AES+CBC256 进行数据加密传输。
 
-**2017-2018**
     *   **技术栈：** Swift mvc
     *   **项目描述：** 语音地图导航应用，包含路线绘制、景区路线记录、离线音频下载管理等功能。
 *   **易骑运动**
@@ -112,8 +110,6 @@
 *   **Unity 龙珠激斗
     *   **技术栈：** Unity, C#, Protobuf, Lua
     *   **项目描述：** 包含内付以及服务端登录物品背包系统实现，Protobuf IM 消息聊天室，Lua 热更新。
-
-**2019-2021**
     *    行者相关
     *   **技术栈：** oc 蓝牙开发管理，AR, DFU
     *   **项目描述：** 蓝牙开发管理应用，bug修复, 包含运动记录数据渲染、AR 路线展示、估算功率图标展示、雷达扫描警报、固件升级 DFU、性能优化。
@@ -130,7 +126,6 @@
     *   **技术栈：** OCR Swift
     *   **项目描述：** OCR 文字识别工具。
 
-**2021-2025**
 
 *   **Android & Web (NFC)**
     *   **技术栈：**  NFC, Android 原生, Web (React), EventBus
