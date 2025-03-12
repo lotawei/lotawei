@@ -59,6 +59,7 @@
 
 - **丰富项目经验**
   主导国际商户收单沙箱仿真业务业务开发，优化商户接入流程节省 70% 时间；主导过短视频、直播、蓝牙交互、地图导航、OCR识别工具类项目。
+  
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/m9qx6gY/961724378193-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/Bt2tzzy/1021724378202-pic.jpg"/>
    <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://i.ibb.co/cQHLbJm/1101724378215-pic.jpg"/>
