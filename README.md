@@ -27,6 +27,7 @@
 
 
 欢迎大家随时向我讨论技术问题，或者有商业合作的想法也可以联系我。一起交流，共同进步！
+技能点：iOS Android web Flutter
 
   <p align="center">
         <a href="https://github.com/lotawei" class="rich-diff-level-one">
