@@ -153,7 +153,14 @@
         *   自定义链路报文跟踪。
         *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
     *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
-
+*   **Flutter (收单机构商户用户端NewPay)**
+    *   **技术栈：** Flutter, MVVM+GetX, 插件化
+    *   **项目描述：**
+        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
+        *   支付业务重构iOS Android 业务商户端 用户端 web端 
+        *   订单 支付 云闪付 银行 LAPNet 等对接 ，手机充值 微信支付
+         
+  
 
 
 ### 🛠️ 技术实力 
