@@ -97,7 +97,23 @@
     <img style="width: 200px; height: 350px; border: 1px solid #ccc; border-radius: 10px;" src="https://ibb.co/YF0Kr5gK](https://i.ibb.co/DHWxWFy6/Screenshot-2025-12-15-at-10-46-26-AM.png"/>
    
 **项目经历**
-
+*   **Flutter (支付收银台业务)**
+    *   **技术栈：** Flutter, MVVM+GetX, 插件化
+    *   **项目描述：**
+        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
+        *   IAPWallet + AMSMerchant 沙箱钱包、仿真商户。
+        *   支付收银台业务，代扣订阅支付业务，如退款、查询、分期支付。
+        *   集成 2C2P, Apple Pay, Google Pay 等支付方式。
+        *   自定义链路报文跟踪。
+        *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
+    *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
+*   **Flutter (收单机构商户用户端NewPay)**
+    *   **技术栈：** Flutter, MVVM+GetX, 插件化
+    *   **项目描述：**
+        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
+        *   支付业务重构iOS Android 业务商户端 用户端 web端 
+        *   订单 支付 云闪付 银行 LAPNet 等对接 ，手机充值 微信支付
+    
 
 *   **C# 网络雷达扫描 (WPF)**
     *   **项目名称：** detectchecker
@@ -146,22 +162,7 @@
 *   **iOS (收银台)**
     *   **技术栈：** iOS, Web 原生容器化, Framework
     *   **项目描述：** 收银台的 Web 原生容器化 Framework，横竖屏幕适配，自定义容器。
-*   **Flutter (支付收银台业务)**
-    *   **技术栈：** Flutter, MVVM+GetX, 插件化
-    *   **项目描述：**
-        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
-        *   IAPWallet + AMSMerchant 沙箱钱包、仿真商户。
-        *   支付收银台业务，代扣订阅支付业务，如退款、查询、分期支付。
-        *   集成 2C2P, Apple Pay, Google Pay 等支付方式。
-        *   自定义链路报文跟踪。
-        *   钱包对接：AlipayHK, AlipayCN, GCash, Kakao Pay 等东南亚钱包银行。
-    *   **服务商户：** 米哈游, 2C2P, 茶百道, B站
-*   **Flutter (收单机构商户用户端NewPay)**
-    *   **技术栈：** Flutter, MVVM+GetX, 插件化
-    *   **项目描述：**
-        *   MVVM+GetX 架构，部分业务如 API 可独立插件化。
-        *   支付业务重构iOS Android 业务商户端 用户端 web端 
-        *   订单 支付 云闪付 银行 LAPNet 等对接 ，手机充值 微信支付
+
          
   
 
