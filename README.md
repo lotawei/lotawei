@@ -1,3 +1,11 @@
+### 干货
+1.Flutter https://pub.dev/packages/flchain_extension //一个日常像写SwiftUI的方式或者链式调用清晰的先子后父构建widget
+2.React  https://github.com/dshuais/react-template //一个统一的组织目录搬砖0-1项目
+3.iOS    https://github.com/lotawei/DfsxAnalysisdemo //埋点统计以及基础的sdk模式
+4.iOS     https://github.com/lotawei/rightly_ios //完整的做一个基于音视频 社区发布任务 im的 完整项目
+
+
+
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=汝亦须师夙习焉;lotawei祝您今天愉快!&center=true&size=27">
         </a> </h1>
@@ -184,6 +192,8 @@
 
 ### 工贼竟是我自己
 老板别再花冤枉钱了！😡Flutter一人顶俩人，一年省台宝马真香！🚗
+
+
 
 
 **👏🏻👏🏻 有脚本需求移动端需求的可以联系我知无不言言无不尽**
